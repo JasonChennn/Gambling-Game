@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrator\Desktop\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\亞東技術學院 - 106上\物件導向程式設計\物件導向程式設計第九組期末專案\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
